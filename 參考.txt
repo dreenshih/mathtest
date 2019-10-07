@@ -1,89 +1,111 @@
-�H�U���ۧڤ��Ь[�c�A�·м��m�i��
+以下為自我介紹架構，麻煩熟練履歷
 
 
 
-�ڥsxxx               �A�ڦb.Net�}�o�g���           �~���k�A
+我叫xxx               ，我在.Net開發經驗約           年左右，
 
  
 
-�ثe�����M�סG
+目前做的專案：
 
-1�D�M�צW�١]���С^�G
+1．專案名稱（介紹）：
 
-2�D�M�׮ɶ�(�ݱ��p, ���@�w�n��)�G
+2．專案時間(看情況, 不一定要講)：
 
-3�D�}�o�H��(�ݱ��p, ���@�w�n��)�G
+3．開發人數(看情況, 不一定要講)：
 
-4�D�ڭt�d���G
+4．我負責做：
 
-5�D�t�ά[�c�G
+5．系統架構：
 
-6�D�ϥΧ޳N�G
+6．使用技術：
 
-(�̧Ǥ��ЧA�g���L���M��, �M�׸�M�׶��i�� "�W�@�ӱM�׬O..." ���s��)
+(依序介紹你經歷過的專案, 專案跟專案間可用 "上一個專案是..." 做連接)
 
-�s���Ȧ椺���t��
-�M�װ���ɶ��G2018/07~2019/10 15�Ӥ�
-�M�ר���GSD�BPG
-�M�פ��e�G���q�����t�ζ}�o / �޲z��x�t��
-�u�@���e�G�̾ڻݨD�A���g�W����A�i��{���ק�B���@�ζ}�o
-�t�δ��աA���g���ճ��i
-�۰ʤƲ��X�U�����R�����μƾ�
-�}�o���ҡGVisual Studio 2017, MS SQL
-�ϥΧ޳N�GHTML�AJavaScript�AjQuery ,MVC
-�{���y���GC#�AT-SQL
+新光銀行內部系統
+專案執行時間：2018/07~2019/10 15個月
+專案角色：SD、PG
+專案內容：公司內部系統開發 / 管理後台系統
+工作內容：依據需求，撰寫規格文件，進行程式修改、維護及開發
+系統測試，撰寫測試報告
+自動化產出各類分析報表及數據
+開發環境：Visual Studio 2017, MS SQL
+使用技術：HTML，JavaScript，jQuery ,MVC
+程式語言：C#，T-SQL
 
-�x�s�Ȧ�H�Υd�~�ȸ�T�t��
-�M�װ���ɶ��G2017/11~2018/06 8�Ӥ�
-�M�ר���GPG
-�M�פ��e�G�s�t�Υ\��ظm
-�u�@���e�G�̫Ȥ�ݨD���g�{��
-�{���}�o�P����
-�}�o���ҡGMS-SQL
-�ϥΧ޳N�GHTML, JavaScript, stored procrdure,MVC
-�{���y���GASP.NET, C#
+台新銀行信用卡業務資訊系統
+專案執行時間：2017/11~2018/06 8個月
+專案角色：PG
+專案內容：新系統功能建置
+工作內容：依客戶需求撰寫程式
+程式開發與除錯
+開發環境：MS-SQL
+使用技術：HTML, JavaScript, stored procrdure,MVC
+程式語言：ASP.NET, C#
 
-�x�s�Ȧ椺���t��
-�M�װ���ɶ��G2017/04~2017/10 7�Ӥ�
-�M�ר���GSD, PG
-�M�פ��e�G�������
-�u�@���e�GDTS��SSIS
-���g�W����
-�t�δ���
-�}�o���ҡGOracle, MS-SQL
+台新銀行內部系統
+專案執行時間：2017/04~2017/10 7個月
+專案角色：SD, PG
+專案內容：資料轉檔
+工作內容：DTS轉SSIS
+撰寫規格文件
+系統測試
+開發環境：Oracle, MS-SQL
 
-.NET (�I����)
-�ϥΧ޳N�GSSIS,MVC
-�{���y���GASP.NET, C#
-�W���Ȧ��x�W�Ȧ�-�s�H�O�귽�޲z�t�κ[���u�J�f�����ظm
-�M�װ���ɶ��G2014/11~2017/03 29�Ӥ�
-�M�ר���GSD
-�M�פ��e�G�s�t�Υ\��ظm
-�������
-�u�@���e�G��Ȥ�ݤF�ѫȤ�ݨD
-�̷ӫȤ�ݨD�}�o���g�W����
-�t�δ���
-���g���ճ��i
-�}�o���ҡGOracle
-�ϥΧ޳N�GHTML
-�{���y���GASP.NET, C#
+.NET (施雅玲)
+使用技術：SSIS,MVC
+程式語言：ASP.NET, C#
+上海銀行儲蓄銀行-新人力資源管理系統暨員工入口網站建置
+專案執行時間：2014/11~2017/03 29個月
+專案角色：SD
+專案內容：新系統功能建置
+資料轉檔
+工作內容：到客戶端了解客戶需求
+依照客戶需求開發撰寫規格文件
+系統測試
+撰寫測試報告
+開發環境：Oracle
+使用技術：HTML
+程式語言：ASP.NET, C#
 
-�H�e
-�z�n,�ڥs�I����,�ڦb.net�}�o�g�禳�Q�~
-�ڥثe���M�׬O�W���Ȧ檺�H�O�귽�޲z�t�κ[���u�J�f����,
-�u�@���e�O�F��SA���ݨD,�F�Ѩt�ά[�c�M���x�\��,���g�t�γW���,�}Table,��SQL,���g�@�γW��PDB function,�ûPPG�����q
-�o�Ӯפl�O�[�c�bweb�W,��Ʈw��oracle,�ϥΪ��޳N��Asp.net
+以前
+您好,我叫施雅玲,我在.net開發經驗有十年
+我目前的專案是上海銀行的人力資源管理系統暨員工入口網站,
+工作內容是了解SA的需求,了解系統架構和平台功能,撰寫系統規格書,開Table,組SQL,撰寫共用規格與DB function,並與PG做溝通
+這個案子是架構在web上,資料庫用oracle,使用的技術為Asp.net
 
-�W�@�ӱM�׬O�s�_�����m�J����T�t�κ��@�[�s�׫ظm,
-�u�@���e�O��?��ݤF�ѫȤ�ݨD,table schema�����@,�̻ݨD���g�{���öi����ի�,���Ȥᰵ����
-�Ͳά[�c�bweb�����W,��Ʈw��MS-SQL,�ϥΪ��޳N��asp.net
+上一個專案是新北市城鄉既有資訊系統維護暨新案建置,
+工作內容是到?戶端了解客戶需求,table schema的維護,依需求撰寫程式並進行測試後,讓客戶做驗證
+糸統架構在web介面上,資料庫用MS-SQL,使用的技術為asp.net
 
-�A�W�@�ӱM�׬O�s�_�������p�e�βM�z�@�~
-�o�Ӯפl�D�n�O�ݭn��{�a�M�d�Φ�,�A�N�M�d��ƶץX���M�洣�ѵ��Ȥ�
-�ڪ��u�@���e���ھڲM�d�^�Ӫ����,�g�{���N�s�¸�ư��M�|���R,�A�צ�excel,���ѵ��Ȥ�,
-�o�Ӯפl�ϥΪ���Ʈw��MS-SQL,�ϥΧ޳N��vb.net
+再上一個專案是新北市都市計畫樁清理作業
+這個案子主要是需要到現地清查樁位,再將清查資料匯出成清單提供給客戶
+我的工作內容為根據清查回來的資料,寫程式將新舊資料做套疊分析,再匯成excel,提供給客戶,
+這個案子使用的資料庫為MS-SQL,使用技術為vb.net
 
-�������~,���ٰ��L�s�_���ϥΤ��Ϩt�ζ}�o�P�ظm,�x�n���Ҫ��ϥΤ��϶}�o�ظm...�����M��,
-�ҬOweb����,�B�ϥ�asp.net�f�tMS-SQL�Ӷ}�o�{��
+除此之外,我還做過新北市使用分區系統開發與建置,台南六甲的使用分區開發建置...等等專案,
+皆是web介面,且使用asp.net搭配MS-SQL來開發程式
 
-�H�W�O�ڪ��M�׸g��,����~
+以上是我的專案經歷,謝謝~
+
+------------------------------
+您好,我叫施雅玲,我在.net開發經驗有十年左右,
+目前的專案是新光銀行內部系統
+主要是根據user的需求,撰寫規格文件,開Table組SQL
+程式開發的部分,依據規格文件,開發程式,產出分析報表,
+寫完程式後需做系統測試和產出測試報告
+使用的技術是MVC,jQuery,資料庫是用MSSQL
+程式語言是用C#
+
+上一個專案是做台新銀行信用卡業務資訊系統
+主要是根據客戶需求開發程式,撰寫信用卡相關分析報表
+使用的技術是ASP.net stored procrdure
+
+再上一個專案是做台新銀行內部系統
+主要內容是做資料轉檔的工作,將DTS轉SSIS
+Oracle和MSSQL都有用到
+
+再上一個專案是上海銀行人力資源系統
+主要是做新系統功能的開發,在這裡是擔任SD,
+依照客戶需求寫規格文件,了解系統架構和平台功能,開Table組SQL,撰寫共用function 並且和PG做溝通
+
